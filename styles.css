@@ -4,7 +4,7 @@
     grid-template-rows: repeat(2,200px);
 	background-color: black;
 }
-.item{
+.grid-item{
 	background-color: violet;
 	border: 2px solid black;
 }
